@@ -1,0 +1,50 @@
+Look at the examples below.
+
+Example 1 ::
+
+""
+look at the following example to understand the structure.
+".চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?
+ক. প্রবোধচন্দ্র বাগচী
+খ. যতীন্দ্রমোহন বাগচী
+গ. প্রফুল্ল মোহন বাগচী
+ঘ. প্রণয়ভূষণ বাগচী
+true. ক"
+
+here the question is => "চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?"
+the 1st answer is => ক. প্রবোধচন্দ্র বাগচী 
+the 2nd answer is => খ. যতীন্দ্রমোহন বাগচী 
+the 3rd answer is => গ. প্রফুল্ল মোহন বাগচী 
+the 4th answer is => ঘ. প্রণয়ভূষণ বাগচী 
+
+The correct answer is marked by "true"  
+Here the correct answer is 'true' => 'ক' => প্রবোধচন্দ্র বাগচী
+That means the correct answer is =>  প্রবোধচন্দ্র বাগচী
+""
+
+
+
+Python Dictionary => 
+Questions = [
+  {'question':"চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?", 
+   'answers': [
+    [ 'প্রবোধচন্দ্র বাগচী',  True], 
+    [' যতীন্দ্রমোহন বাগচী', False], 
+    [' প্রফুল্ল মোহন বাগচী', False], 
+    [' প্রণয়ভূষণ বাগচী', False]]},
+  ]
+  
+  
+Target::
+Now convert the the following data into the python dictionary.
+  
+Data =>
+""
+
+
+
+
+
+
+""
+

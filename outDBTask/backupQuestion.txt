@@ -1,0 +1,163 @@
+Question ID: 114
+Question ID: 115
+Question ID: 116
+Question ID: 117
+Question: ধ্বনি সম্পর্কে নিচের কোন বাক্যটি সঠিক নয়?
+Answers:
+  - ধ্বনি দৃশ্যমান (Correct: True)
+  - মানুষের ভাষার মূলে আছে কতগুলো ধ্বনি (Correct: False)
+  - ধ্বনি উচ্চারণীয় ও শ্রবণীয় (Correct: False)
+  - অর্থবোধক ধ্বনিগুলোই মানুষের বিভিন্ন ভাষার বাগ্‌ধ্বনি (Correct: False)
+
+ 
+ 
+Question ID: 118
+Question: স্বরান্ত অক্ষরকে কী বলে?
+Answers:
+  - একাক্ষর (Correct: False)
+  - মুক্তাক্ষর (Correct: True)
+  - বদ্ধাক্ষর (Correct: False)
+  - যুক্তাক্ষর (Correct: False)
+
+ 
+ 
+Question ID: 119
+Question: শুদ্ধ বানানের গুচ্ছ কোনটি?
+Answers:
+  - শিরশ্ছেদ, দরিদ্রতা, সমীচীন (Correct: True)
+  - শিরোশ্ছেদ, দারিদ্র্য, সমীচিন (Correct: False)
+  - শিরঃশ্ছেদ, দরিদ্রতা, সমিচীন (Correct: False)
+  - শিরচ্ছেদ, দরিদ্রতা, সমীচীন (Correct: False)
+
+ 
+ 
+Question ID: 120
+Question: আরবি 'কলম' শব্দটি 'কলমোস' শব্দ থেকে এসেছে। 'কলমোস' কোন ভাষার শব্দ?
+Answers:
+  - পাঞ্জাবি (Correct: False)
+  - গ্রিক (Correct: True)
+  - ফরাসি (Correct: False)
+  - স্পেনিশ (Correct: False)
+
+ 
+ 
+Question ID: 121
+Question: ভাষা চিন্তার শুধু বাহনই নয়, মন্তব্যটি চিন্তার প্রসূতিও।' কোন ভাষা- চিন্তকের?
+Answers:
+  - সুনীতিকুমার চট্টোপাধ্যায় (Correct: False)
+  - মুহম্মদ শহীদুল্লাহ্ (Correct: False)
+  - মুহম্মদ এনামুল হক (Correct: False)
+  - সুকুমার সেন (Correct: True)
+
+ 
+ 
+Question ID: 122
+Question: সর্বপ্রথম বাংলা ভাষার ব্যাকরণ রচনা করেন কে?
+Answers:
+  - মনোএল দ্য আসসুম্পসাঁও (Correct: True)
+  - রাজা রামমোহন রায় (Correct: False)
+  - রামেন্দ্র সুন্দর ত্রিবেদী (Correct: False)
+  - ন্যাথানিয়েল ব্রাসি হ্যালহেড (Correct: False)
+
+ 
+ 
+Question ID: 123
+Question: উচ্চারণের রীতি অনুযায়ী নিচের কোনটি উচ্চমধ্য-সম্মুখ স্বরধ্বনি?
+Answers:
+  - অ (Correct: False)
+  - ও (Correct: False)
+  - আ (Correct: False)
+  - এ (Correct: True)
+
+ 
+ 
+Question ID: 124
+Question: তাম্বুলিক' শব্দের সমার্থক নয় কোনটি?
+Answers:
+  - পান-ব্যবসায়ী (Correct: False)
+  - তামসিক (Correct: True)
+  - পর্ণকার (Correct: False)
+  - বারুই (Correct: False)
+
+ 
+ 
+Question ID: 125
+Question: তুমি তো ভারি সুন্দর ছবি আঁক!' বাক্যটিতে কোন প্রকারের অব্যয় পদ ব্যবহৃত হয়েছে?
+Answers:
+  - পদান্বয়ী অব্যয় (Correct: False)
+  - অনুসর্গ অব্যয় (Correct: False)
+  - অনন্বয়ী অব্যয় (Correct: True)
+  - অনুকার অব্যয় (Correct: False)
+
+ 
+ 
+Question ID: 126
+Question: নিচের কোনটি যৌগিক শব্দ?
+Answers:
+  - প্রবীণ (Correct: False)
+  - জেঠামি (Correct: False)
+  - সরোজ (Correct: False)
+  - মিতালি (Correct: True)
+
+ 
+ 
+Question ID: 127
+Question: সুনামীর তান্ডবে অনেকেই সর্বশান্ত হয়েছে।' বাক্যটিতে কয়টি ভুল আছে?
+Answers:
+  - একটি (Correct: False)
+  - তিনটি (Correct: True)
+  - দুটি (Correct: False)
+  - ভুল নেই (Correct: False)
+
+ 
+ 
+Question ID: 128
+Question: কৃদন্ত পদের পূর্ববর্তী পদকে কী বলে?
+Answers:
+  - উপপদ (Correct: True)
+  - প্রপদ (Correct: False)
+  - প্রাতিপদিক (Correct: False)
+  - পূর্বপদ (Correct: False)
+
+ 
+ 
+Question ID: 129
+Question: 'তোমার নাম কী?'- এখানে 'কী' কোন প্রকারের পদ?
+Answers:
+  - প্রশ্নবাচক (Correct: False)
+  - সর্বনাম (Correct: True)
+  - অব্যয় (Correct: False)
+  - বিশেষণ (Correct: False)
+
+ 
+ 
+Question ID: 130
+Question: 'সরল' শব্দের বিপরীতার্থক নয় নিচের কোনটি?
+Answers:
+  - কুটিল (Correct: False)
+  - বক্র (Correct: False)
+  - জটিল (Correct: False)
+  - গরল (Correct: True)
+
+ 
+ 
+Question ID: 131
+Question: 'Rank' শব্দের বাংলা পরিভাষা কী?
+Answers:
+  - পদ (Correct: False)
+  - মাত্রা (Correct: False)
+  - পদমর্যাদা (Correct: True)
+  - উচ্চতা (Correct: False)
+
+ 
+ 
+Question ID: 132
+Question: চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?
+Answers:
+  - প্রবোধচন্দ্র বাগচী (Correct: True)
+  - যতীন্দ্রমোহন বাগচী (Correct: False)
+  - প্রফুল্ল মোহন বাগচী (Correct: False)
+  - প্রণয়ভূষণ বাগচী (Correct: False)
+
+ 
+ 

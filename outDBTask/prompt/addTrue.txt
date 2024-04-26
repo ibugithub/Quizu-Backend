@@ -1,0 +1,28 @@
+Example of Bad Data => 
+সুনামীর তান্ডবে অনেকেই সর্বশান্ত হয়েছে।' বাক্যটিতে
+কয়টি ভুল আছে?
+ক. একটি
+গ. তিনটি
+খ. দুটি
+ঘ. ভুল নেই
+উ.গ
+
+Example of Good data =>
+সুনামীর তান্ডবে অনেকেই সর্বশান্ত হয়েছে।' বাক্যটিতে
+কয়টি ভুল আছে?
+ক. একটি 
+গ. তিনটি 
+খ. দুটি 
+ঘ. ভুল নেই 
+correct answer. গ
+[replace all the "উ"  with "correct answer" but all the other info will stay same]
+
+
+
+can you now do the same with the followind data? 
+
+""
+
+
+
+""

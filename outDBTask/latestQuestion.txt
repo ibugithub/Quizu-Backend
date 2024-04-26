@@ -1,0 +1,120 @@
+Question ID: 133
+Question: 'গীতগোবিন্দ' কাব্যের রচয়িতা জয়দেব কার সভাকবি ছিলেন?
+Answers:
+  - শশাঙ্কদেবের (Correct: False)
+  - যশোবর্ধনের (Correct: False)
+  - লক্ষ্মণসেনের (Correct: True)
+  - হর্ষবর্ধনের (Correct: False)
+
+ 
+ 
+Question ID: 134
+Question: কবি যশোরাজ খান বৈষ্ণবপদ রচনা করেন কোন ভাষায়?
+Answers:
+  - ব্রজবুলি (Correct: True)
+  - সংস্কৃত (Correct: False)
+  - বাংলা (Correct: False)
+  - হিন্দি (Correct: False)
+
+ 
+ 
+Question ID: 135
+Question: নিচের কোন জন যুদ্ধকাব্যের রচয়িতা নন?
+Answers:
+  - দৌলত উজির বাহরাম খাঁ (Correct: False)
+  - সাবিরিদ খা (Correct: False)
+  - সৈয়দ সুলতান (Correct: False)
+  - সৈয়দ নূরুদ্দীন (Correct: True)
+
+ 
+ 
+Question ID: 136
+Question: কোনটি কবি জৈনুদ্দিনের কাব্যগ্রন্থ?
+Answers:
+  - রসুল বিজয় (Correct: True)
+  - মক্কা বিজয় (Correct: False)
+  - রসুলচরিত (Correct: False)
+  - মক্কানামা (Correct: False)
+
+ 
+ 
+Question ID: 137
+Question: 'বিদ্যাসাগর ও বাঙালি সমাজ' গ্রন্থের রচয়িতা কে?
+Answers:
+  - বিনয় ঘোষ (Correct: True)
+  - বিনয় ভট্টাচার্য (Correct: False)
+  - সুবিনয় ঘোষ (Correct: False)
+  - বিনয় বর্মণ (Correct: False)
+
+ 
+ 
+Question ID: 138
+Question: প্রথম সাহিত্যিক গদ্যের স্রষ্টা কে?
+Answers:
+  - রাজা রামমোহন রায় (Correct: False)
+  - ঈশ্বরচন্দ্র বিদ্যাসাগর (Correct: True)
+  - মৃত্যুঞ্জয় বিদ্যালঙ্কার (Correct: False)
+  - বঙ্কিমচন্দ্র চট্টপাধ্যায় (Correct: False)
+
+ 
+ 
+Question ID: 139
+Question: প্যারীচাঁদ মিত্রের 'আলালের ঘরের দুলাল' প্রথম গ্রন্থাকারে প্রকাশিত হয় কত সালে?
+Answers:
+  - ১৮৫৮ সালে (Correct: True)
+  - ১৮৪৮ সালে (Correct: False)
+  - ১৯৭৮ সালে (Correct: False)
+  - ১৮৬৮ সালে (Correct: False)
+
+ 
+ 
+Question ID: 140
+Question: শচীশ, দামিনী ও শ্রীবিলাস রবীন্দ্রনাথ ঠাকুরের কোন উপন্যাসের চরিত্র?
+Answers:
+  - চতুরঙ্গ (Correct: True)
+  - নৌকাডুবি (Correct: False)
+  - চার অধ্যায় (Correct: False)
+  - ঘরে বাইরে (Correct: False)
+
+ 
+ 
+Question ID: 141
+Question: 'তুমি মা কল্পতরু, আমরা সব পোষাগরু'- এই কবিতাংশটির রচয়িতা কে?
+Answers:
+  - রঙ্গলাল বন্দ্যোপাধ্যায় (Correct: False)
+  - ঈশ্বরচন্দ্র বিদ্যাসাগর (Correct: False)
+  - হেমচন্দ্র বন্দ্যোপাধ্যায় (Correct: False)
+  - ঈশ্বরচন্দ্র গুপ্ত (Correct: True)
+
+ 
+ 
+Question ID: 142
+Question: মীর মশাররফ হোসেনের কোন গ্রন্থের উপজীব্য হিন্দু-মুসলমানের বিরোধ?
+Answers:
+  - গো-জীবন (Correct: True)
+  - এর উপায় কী (Correct: False)
+  - ইসলামের জয় (Correct: False)
+  - বসন্তকুমারী নাটক (Correct: False)
+
+ 
+ 
+Question ID: 143
+Question: রবিন্দ্রনাথ ঠাকুর কত বয়সে ছোটগল্পকার হিসেবে আত্মপ্রকাশ করেন?
+Answers:
+  - ১০ বছর (Correct: False)
+  - ১৪ বছর (Correct: False)
+  - ১২ বছর (Correct: False)
+  - ১৬ বছর (Correct: True)
+
+ 
+ 
+Question ID: 144
+Question: নিচের কোনটি বিভূতিভূষণ বন্দ্যোপাধ্যায়ের গল্পগ্রন্থ নয়?
+Answers:
+  - ইছামতি (Correct: True)
+  - মেঘমল্লার (Correct: False)
+  - মৌরিফুল (Correct: False)
+  - যাত্রাদল (Correct: False)
+
+ 
+ 

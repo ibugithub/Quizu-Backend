@@ -1,6 +1,6 @@
 from rest_framework import viewsets
-from .models import Category, Quiz, Question, Answer
-from .serializers import CategorySerializer, QuizSerializer, QuestionSerializer, AnswerSerializer
+from .models import Category, Quiz, Question, Answer, Note
+from .serializers import CategorySerializer, QuizSerializer, QuestionSerializer, AnswerSerializer, NoteSerializer
 
 class CategoryViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Category.objects.all()
@@ -17,3 +17,7 @@ class QuestionViewSet(viewsets.ReadOnlyModelViewSet):
 class AnswerViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Answer.objects.all()
     serializer_class = AnswerSerializer
+
+class NoteViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Note.objects.all()
+    serializer_class = NoteSerializer

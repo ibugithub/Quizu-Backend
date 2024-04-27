@@ -103,7 +103,7 @@ def createNotes(Notes):
     newNote.tags.add(tag_bangla)
     newNote.save()
 
-createNotes(Notes)
+# createNotes(Notes)
 
 
 # delete_latest_questions()
@@ -115,6 +115,19 @@ createNotes(Notes)
 
 
 
+
+
+# # def addTags ():
+# #   count = 0
+# #   question = Question.objects.filter(quiz=quiz_bcs_bangla)
+# #   print('The questions are', question)
+# #   for q in question:
+# #       tag = Tag.objects.get(id=5)
+# #       q.tags.add(tag)
+# #       q.save()
+# #       print(tag,' tag has been added... to ...', question)
+# #       count+=1
+# #   print("Tag added to Total ", count, " questions")
 
 
 
@@ -132,14 +145,3 @@ createNotes(Notes)
 
 showOutput()
 
-
-
-
-# # # def addTags ():
-# # #   question = Question.objects.filter(quiz=quiz)
-# # #   print('The questions are', question)
-# # #   for q in question:
-# # #       tag = Tag.objects.get(id=1)
-# # #       q.tags.add(tag)
-# # #       q.save()
-# # #       print('The tags are', q.tags.all())

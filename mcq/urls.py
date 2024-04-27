@@ -6,4 +6,5 @@ urlpatterns = [
   path('show_quiz/', views.QuizViewSet.as_view({'get': 'list'}), name='show_quiz'),
   path('show_questions/', views.QuestionViewSet.as_view({'get': 'list'}), name='show_questions'),
   path('show_answers/', views.AnswerViewSet.as_view({'get': 'list'}), name='show_answers'),
+  path('show_notes/', views.NoteViewSet.as_view({'get': 'list'}), name='show_notes'),
 ]

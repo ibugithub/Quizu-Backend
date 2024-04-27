@@ -5,11 +5,22 @@ application = get_wsgi_application()
 
 
 
-from mcq.models import Category, Quiz, Question, Answer
+from mcq.models import Category, Quiz, Question, Answer, Tag, Note
 from outDBTask.question import Questions
+from outDBTask.note import Notes
 
-quizId = 2
-quiz = Quiz.objects.get(id=quizId)
+quiz_bcs_bangla = Quiz.objects.get(id=2)
+quiz_bcs_english = Quiz.objects.get(id=4)
+quiz_bcs_general = Quiz.objects.get(id=5)
+
+quiz_mySelection = Quiz.objects.get(id=3)
+
+tag_bangla = Tag.objects.get(id=1)
+tag_sal = Tag.objects.get(id=4)
+tag_english = Tag.objects.get(id=2)
+tag_general_knowledge = Tag.objects.get(id=3)
+
+
 
 def showOutput():
   print('\n \n ***the questions counts is*** ', Question.objects.count())
@@ -72,17 +83,29 @@ def createAnswers(question, answers):
     print("** The answers are not valid **")
     question.delete()
     
+
+
 def createQuestions (quiz, questions):
   removePrev()
   for question in questions:
     questionVar = Question.objects.create(text=question['question'], quiz=quiz)
+    questionVar.tags.add(tag_sal, tag_bangla)
     questionVar.save()
     questionObj = Question.objects.get(id=questionVar.id)
     createAnswers(questionObj, question['answers'])
   
+# createQuestions(quiz_mySelection, Questions)
 
 
-createQuestions(quiz, Questions)
+def createNotes(Notes):
+  for note in Notes:
+    newNote = Note.objects.create(text=note)
+    newNote.tags.add(tag_bangla)
+    newNote.save()
+
+createNotes(Notes)
+
+
 # delete_latest_questions()
 
 
@@ -94,4 +117,29 @@ createQuestions(quiz, Questions)
 
 
 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 showOutput()
+
+
+
+
+# # # def addTags ():
+# # #   question = Question.objects.filter(quiz=quiz)
+# # #   print('The questions are', question)
+# # #   for q in question:
+# # #       tag = Tag.objects.get(id=1)
+# # #       q.tags.add(tag)
+# # #       q.save()
+# # #       print('The tags are', q.tags.all())

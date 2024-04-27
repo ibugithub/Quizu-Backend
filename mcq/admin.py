@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Quiz, Question, Answer, Category
+from .models import Quiz, Question, Answer, Category, Tag, Note
 
 
 from django.contrib import admin
@@ -17,7 +17,15 @@ class AnswerAdmin(admin.ModelAdmin):
 class CategoryAdmin(admin.ModelAdmin):
     list_display = [field.name for field in Category._meta.fields]
 
+class TagAdmin(admin.ModelAdmin):
+    list_display = [field.name for field in Tag._meta.fields]
+
+class NoteAdmin(admin.ModelAdmin):
+    list_display = [field.name for field in Tag._meta.fields]
+
 admin.site.register(Quiz, QuizAdmin)
 admin.site.register(Question, QuestionAdmin)
 admin.site.register(Answer, AnswerAdmin)
 admin.site.register(Category, CategoryAdmin)
+admin.site.register(Tag, TagAdmin)
+admin.site.register(Note, NoteAdmin)

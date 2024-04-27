@@ -16,12 +16,20 @@ class Quiz(models.Model):
     def __str__(self):
         return self.title
 
+
+class Tag(models.Model):
+    text = models.CharField(max_length=100)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    def __str__(self):
+        return self.text
+
 class Question(models.Model):
     text = models.TextField()
     quiz = models.ForeignKey(Quiz, on_delete=models.SET_NULL, null=True, related_name='questions')
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-
+    tags = models.ManyToManyField(Tag,  related_name='tags')
     def __str__(self):
         return self.text[:50]
 
@@ -42,3 +50,11 @@ class Answer(models.Model):
 
     def __str__(self):
         return self.text
+
+class Note(models.Model):
+    text = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    tags = models.ManyToManyField(Tag,  related_name='noteTags')
+    def __str__(self):
+        return self.text[:50]

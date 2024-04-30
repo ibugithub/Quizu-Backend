@@ -142,14 +142,8 @@ STATIC_ROOT = BASE_DIR / 'static'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000",
-    "https://springo-front-end.vercel.app"
-]
-CSRF_TRUSTED_ORIGINS = [
-    "http://localhost:3000",
-    "https://springo-front-end.vercel.app"
-]
+CORS_ORIGIN_WHITELIST = os.environ.get('CORS_ORIGIN_WHITELIST', '').split()
+CSRF_TRUSTED_ORIGINS = os.environ.get('CSRF_TRUSTED_ORIGINS', '').split()
 
 CORS_ALLOW_CREDENTIALS = True
 
